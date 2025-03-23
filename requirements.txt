@@ -1,0 +1,4 @@
+requests
+ollama
+mistralai
+TTS
